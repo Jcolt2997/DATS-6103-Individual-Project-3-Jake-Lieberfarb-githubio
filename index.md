@@ -42,25 +42,25 @@ Jake's Zenodo:
 
 <img src="12_ weighted Stars by County.png" alt="image N/A" class="inline"/>
 
-<img src="13_ % Fair or Poor Health by County.png" alt="image N/A" class="inline"/>
+<img src="13_  Fair or Poor Health by County.png" alt="image N/A" class="inline"/>
 
-<img src="14_% Uninsuredby County.png" alt="image N/A" class="inline"/>
+<img src="14_ Uninsuredby County.png" alt="image N/A" class="inline"/>
 
-<img src="15_% Unemployed by County.png" alt="image N/A" class="inline"/>
+<img src="15_ Unemployed by County.png" alt="image N/A" class="inline"/>
 
 <img src="16_Weighted Stars by County for ACHP Plans.png" alt="image N/A" class="inline"/>
 
-<img src="17_Count of ACHP Contracts with Greater than 15% Fair or Poor Health.png" alt="image N/A" class="inline"/>
+<img src="17_Count of ACHP Contracts with Greater than 15 Fair or Poor Health.png" alt="image N/A" class="inline"/>
 
-<img src="18_ACHP weighted Stars vs. % Fair or Poor Health.png" alt="image N/A" class="inline"/>
+<img src="18_ACHP weighted Stars vs.  Fair or Poor Health.png" alt="image N/A" class="inline"/>
 
-<img src="19_ACHP Contracts who Serve greater than 15% Uninsured.png" alt="image N/A" class="inline"/>
+<img src="19_ACHP Contracts who Serve greater than 15 Uninsured.png" alt="image N/A" class="inline"/>
 
-<img src="20_ACHP Weighted Stars vs. % Uninsured.png" alt="image N/A" class="inline"/>
+<img src="20_ACHP Weighted Stars vs. Uninsured.png" alt="image N/A" class="inline"/>
 
-<img src="21_ACHP Contracts that Serve Greater than 5% Unemployed.png" alt="image N/A" class="inline"/>
+<img src="21_ACHP Contracts that Serve Greater than 5 Unemployed.png" alt="image N/A" class="inline"/>
 
-<img src="22_ACHP weighted Stars vs. % Unemployed.png" alt="image N/A" class="inline"/>
+<img src="22_ACHP weighted Stars vs.  Unemployed.png" alt="image N/A" class="inline"/>
 ```markdown
 Syntax highlighted code block
 
