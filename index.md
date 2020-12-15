@@ -16,9 +16,11 @@ Jake’s GitHub.io
 
 Jakes: Zenodo: 
 
-### Markdown
+## Visualizations
 
-<img src="Location and Economic Damages of Weather Events.png" alt="image not found" class="inline"/>
+<img src="1_October 2020 New Contracts by Plan Types.png" alt="image N/A" class="inline"/>
+
+
 ```markdown
 Syntax highlighted code block
 
