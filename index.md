@@ -5,7 +5,7 @@ Hello! This is an analysis of Healthcare  plan types (HMO, Local PPO, regional P
 
 Other links:
 
-[Jake’s GitHub page]:()
+[Jake’s GitHub page:]()
 
 [Jake's Zenodo:]() 
 
