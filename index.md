@@ -12,15 +12,55 @@ Hello! This is an analysis of Healthcare  plan types (HMO, Local PPO, regional P
 		This file contains social risk factor data by county (FIPS code) 
 
 Other links:
-Jake’s GitHub.io
+Jake’s GitHub page
 
-Jakes: Zenodo: 
+Jake's Zenodo: 
 
 ## Visualizations
 
 <img src="1_October 2020 New Contracts by Plan Types.png" alt="image N/A" class="inline"/>
 
+<img src=".png" alt="image N/A" class="inline"/>
 
+<img src=".png" alt="image N/A" class="inline"/>
+
+<img src=".png" alt="image N/A" class="inline"/>
+
+<img src=".png" alt="image N/A" class="inline"/>
+
+<img src=".png" alt="image N/A" class="inline"/>
+
+<img src=".png" alt="image N/A" class="inline"/>
+
+<img src=".png" alt="image N/A" class="inline"/>
+
+<img src=".png" alt="image N/A" class="inline"/>
+
+<img src=".png" alt="image N/A" class="inline"/>
+
+<img src=".png" alt="image N/A" class="inline"/>
+
+<img src=".png" alt="image N/A" class="inline"/>
+
+<img src=".png" alt="image N/A" class="inline"/>
+
+<img src=".png" alt="image N/A" class="inline"/>
+
+<img src=".png" alt="image N/A" class="inline"/>
+
+<img src=".png" alt="image N/A" class="inline"/>
+
+<img src=".png" alt="image N/A" class="inline"/>
+
+<img src=".png" alt="image N/A" class="inline"/>
+
+<img src=".png" alt="image N/A" class="inline"/>
+
+<img src=".png" alt="image N/A" class="inline"/>
+
+<img src=".png" alt="image N/A" class="inline"/>
+
+<img src=".png" alt="image N/A" class="inline"/>
 ```markdown
 Syntax highlighted code block
 
