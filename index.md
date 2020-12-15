@@ -1,13 +1,23 @@
-## Welcome to GitHub Pages
+#An Assessment of Health Care Plan Types on ACHP members and Social Risk Factors
+Hello! This is an analysis of Healthcare  plan types (HMO, Local PPO, regional PPO, etc.) and their corresponding quality measure to see which plan types offer the greatest variety of coverage. This is broken up into overall plan type and  quality measures found in the US and for ACHP members. The Alliance of Community Health Plans (ACHP) is an advocacy and health care firm located in Washington, D.C. ACHP represents 23 healthcare providers around the US. Data was pulled from the Center for Medicare & Medicaid Services (CMS).  Next, social risk factors such as % Fair or Poor Health, % uninsured, and % unemployed by US county was compared to plans available in these counties. A weighted stars value was constructed by taking the total number of enrollees available in each county and multiplying it by the overall star rating for each county and then summing the results for each county. This weighted stars rating was compared to social risk factors to see if any ACHP plans are focusing on areas that have high social risk scores. If you have any questions please reach out to me at Jakelieberfarb@gmail.com
 
-You can use the [editor on GitHub](https://github.com/Jcolt2997/DATS-6103-Individual-Project-3-Jake-Lieberfarb-githubio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+	Monthly Enrollment by Plan 
+		This file contains Medicare enrollment by plan contract and plan type 
+	2021 Star Rating Data table (Oct 8, 2020)
+		This file contains measure rating data (46 measures total) by plan contract
+	State County Contract Enrollment
+		This file contains Medicare enrollment by plan contract and county (FIPS code) [November and October]
+	2020 County Health Rankings Data
+		This file contains social risk factor data by county (FIPS code) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Other links:
+Jake’s GitHub.io
+
+Jakes: Zenodo: 
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+<img src="Location and Economic Damages of Weather Events.png" alt="image not found" class="inline"/>
 ```markdown
 Syntax highlighted code block
 
