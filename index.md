@@ -20,25 +20,25 @@ Jake's Zenodo:
 
 <img src="1_October 2020 New Contracts by Plan Types.png" alt="image N/A" class="inline"/>
 
-<img src=".png" alt="image N/A" class="inline"/>
+<img src="2_November 2020 New Contracts by Plan Types.png" alt="image N/A" class="inline"/>
 
-<img src=".png" alt="image N/A" class="inline"/>
+<img src="3_Acerage Rating of Plan Types by Quality Measures.png" alt="image N/A" class="inline"/>
 
-<img src=".png" alt="image N/A" class="inline"/>
+<img src="4_Percentage of 4 and 5 Star Ratings per Plan.png" alt="image N/A" class="inline"/>
 
-<img src=".png" alt="image N/A" class="inline"/>
+<img src="5_Types of Contracts Offered by ACHP Members.png" alt="image N/A" class="inline"/>
 
-<img src=".png" alt="image N/A" class="inline"/>
+<img src="6_Plan Types Offered by ACHP Members.png" alt="image N/A" class="inline"/>
 
-<img src=".png" alt="image N/A" class="inline"/>
+<img src="7_Count of Total Plan Types Offered by ACHP Member Plans.png" alt="image N/A" class="inline"/>
 
-<img src=".png" alt="image N/A" class="inline"/>
+<img src="8_Average Rating of ACHP Plan Types by Domain.png" alt="image N/A" class="inline"/>
 
-<img src=".png" alt="image N/A" class="inline"/>
+<img src="9_Percentage of 4 and 5 Star ratings per Plan.png" alt="image N/A" class="inline"/>
 
-<img src=".png" alt="image N/A" class="inline"/>
+<img src="10_Social Risk Factors by State.png" alt="image N/A" class="inline"/>
 
-<img src=".png" alt="image N/A" class="inline"/>
+<img src="11_ Top 10 Counties by Personal health Statistics.png" alt="image N/A" class="inline"/>
 
 <img src=".png" alt="image N/A" class="inline"/>
 
